@@ -1,0 +1,7 @@
+<h1>Você deseja fazer logoff?</h1>
+				<form>
+					<button type="submit">Sim, fazer logoff</button>
+					<button type="button" onclick="history.back();">Cancelar</button>
+				</form>
+			</div>
+		
